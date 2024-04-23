@@ -1,0 +1,3 @@
+[submodule "Menu"]
+	path = Menu
+	url = https://ejemplo.com/repo-menu.git
