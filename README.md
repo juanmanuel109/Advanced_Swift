@@ -2,6 +2,6 @@
 
 Este repositorio contiene una colección de archivos y proyectos desarrollados durante un curso de Swift Avanzado, además contiene el proyecto final del curso, que es la implementación de un menú de restaurante en una aplicación
 
-![cap1](https://raw.githubusercontent.com/juanmanuel109/Advanced_Swift/main/assets/162065582/7ed55362-9fd7-4e4e-93d5-95f3b1d64597.png)
-![cap2](https://raw.githubusercontent.com/juanmanuel109/Advanced_Swift/main/assets/162065582/38e21c4d-bbc9-4427-938f-ee4128e8b364.png)
-![cap3](https://raw.githubusercontent.com/juanmanuel109/Advanced_Swift/main/assets/162065582/5d77f587-34be-4f42-8381-81272b603bf0.png)
+![cap1](https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/90f30e39-f6ca-4dc8-8c11-33bffbb6626a)
+![cap2](https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/2a2cacaf-9f9e-4c4e-bfce-c0362c1ae45a)
+![cap3](https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/bb03a1a2-5aa8-4ab9-bd74-78314bfe9c66)
