@@ -6,6 +6,7 @@ Este repositorio contiene una colección de archivos y proyectos desarrollados d
 <img width="215" alt="cap2" src="https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/2a2cacaf-9f9e-4c4e-bfce-c0362c1ae45a">
 <img width="215" alt="cap3" src="https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/bb03a1a2-5aa8-4ab9-bd74-78314bfe9c66">
 
-#npm
-![video-_online-video-cutter com_](https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/247a608c-44c2-4cbf-b88a-212964cce20c)
-
+<video width="215" controls>
+  <source src="https://github.com/juanmanuel109/Advanced_Swift/assets/162065582/247a608c-44c2-4cbf-b88a-212964cce20c" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
